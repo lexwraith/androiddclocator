@@ -1,0 +1,8 @@
+Things I need to learn:
+
+Scrolling
+Buttons
+Dialog Box
+Popup Message (can't interact with it)
+Menu Exit
+Pinch Zoom
